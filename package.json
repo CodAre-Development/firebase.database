@@ -1,0 +1,20 @@
+{
+  "name": "firebase.database",
+  "version": "1.0.0",
+  "description": "A module made for Firestore. You can save, delete, update and shoot data. It allows you to do it all aesthetically and quickly.",
+  "main": "function.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "firebase",
+    "firestore",
+    "firestore-db",
+    "firestore.db",
+    "firebase.db",
+    "database",
+    "datastore"
+  ],
+  "author": "",
+  "license": "MIT"
+}
